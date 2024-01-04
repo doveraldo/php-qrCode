@@ -1,0 +1,1 @@
+php -c \php\php-8.1.10 c:\dover\dev\php\composer\composer.phar require chillerlan/php-qrcode
